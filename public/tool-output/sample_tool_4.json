@@ -1,0 +1,161 @@
+{
+    "success": true,
+    "data": [
+    {
+    "name": "on hand",
+    "code": "on_hand",
+    "is_required": false,
+    "type": "number",
+    "entity": "product",
+    "additional_data": {
+    "default_data": 0
+    },
+    "hint": "on hand",
+    "is_native": true,
+    "is_system": true,
+    "is_filterable": false,
+    "is_visible_on_frontend": false,
+    "in_use": false,
+    "created_at": "1752664184796",
+    "business_id": "68778878b7d770271e055586",
+    "id": "68778878b7d770271e05559e"
+    },
+    {
+    "name": "on hold",
+    "code": "on_hold",
+    "is_required": false,
+    "type": "number",
+    "entity": "product",
+    "additional_data": {
+    "default_data": 0
+    },
+    "hint": "on hold",
+    "is_native": true,
+    "is_system": true,
+    "is_filterable": false,
+    "is_visible_on_frontend": true,
+    "in_use": false,
+    "created_at": "1752664184800",
+    "business_id": "68778878b7d770271e055586",
+    "id": "68778878b7d770271e05559f"
+    },
+    {
+    "name": "Item Width Value",
+    "code": "item_width_value",
+    "is_required": false,
+    "type": "number",
+    "additional_data": {
+    "default_value": 0
+    },
+    "hint": "Item Width Value",
+    "is_filterable": false,
+    "is_native": false,
+    "is_system": false,
+    "business_id": "68778878b7d770271e055586",
+    "entity": "product",
+    "created_at": "1758875892083",
+    "is_visible_on_frontend": true,
+    "in_use": false,
+    "id": "68d650f47f0614178b052546"
+    },
+    {
+    "name": "Item Width Unit",
+    "code": "item_width_unit",
+    "is_required": false,
+    "type": "text",
+    "additional_data": {
+    "default_value": ""
+    },
+    "hint": "Item Width Unit",
+    "is_filterable": false,
+    "is_native": false,
+    "is_system": false,
+    "business_id": "68778878b7d770271e055586",
+    "entity": "product",
+    "created_at": "1758875897033",
+    "is_visible_on_frontend": true,
+    "in_use": false,
+    "id": "68d650f9e6ec2ffbe90f5f78"
+    },
+    {
+    "name": "Item Length Value",
+    "code": "item_length_value",
+    "is_required": false,
+    "type": "number",
+    "additional_data": {
+    "default_value": 0
+    },
+    "hint": "Item Length Value",
+    "is_filterable": false,
+    "is_native": false,
+    "is_system": false,
+    "business_id": "68778878b7d770271e055586",
+    "entity": "product",
+    "created_at": "1758875911797",
+    "is_visible_on_frontend": true,
+    "in_use": false,
+    "id": "68d6510742bab7f5480db706"
+    },
+    {
+    "name": "Item Length Unit",
+    "code": "item_length_unit",
+    "is_required": false,
+    "type": "text",
+    "additional_data": {
+    "default_value": ""
+    },
+    "hint": "Item Length Unit",
+    "is_filterable": false,
+    "is_native": false,
+    "is_system": false,
+    "business_id": "68778878b7d770271e055586",
+    "entity": "product",
+    "created_at": "1758875915812",
+    "is_visible_on_frontend": true,
+    "in_use": false,
+    "id": "68d6510b7a1d4d9d060fe466"
+    },
+    {
+    "name": "Item Height Unit",
+    "code": "item_height_unit",
+    "is_required": false,
+    "type": "text",
+    "additional_data": {
+    "default_value": ""
+    },
+    "hint": "Item Height Unit",
+    "is_filterable": false,
+    "is_native": false,
+    "is_system": false,
+    "business_id": "68778878b7d770271e055586",
+    "entity": "product",
+    "created_at": "1758875922326",
+    "is_visible_on_frontend": true,
+    "in_use": false,
+    "id": "68d651127a1d4d9d060fe467"
+    },
+    {
+    "name": "Item Height Value",
+    "code": "item_height_value",
+    "is_required": false,
+    "type": "number",
+    "additional_data": {
+    "default_value": 0
+    },
+    "hint": "Item Height Value",
+    "is_filterable": false,
+    "is_native": false,
+    "is_system": false,
+    "business_id": "68778878b7d770271e055586",
+    "entity": "product",
+    "created_at": "1758875928667",
+    "is_visible_on_frontend": true,
+    "in_use": false,
+    "id": "68d651187a1d4d9d060fe468"
+    }
+    ],
+    "cursor": {
+    "prev": "eyJpZCI6eyIkb2lkIjoiNjg3Nzg4NzhiN2Q3NzAyNzFlMDU1NTllIn0sInBhZ2UiOjIsInBlcl9wYWdlIjoxMCwiZmlsdGVyIjp7ImJ1c2luZXNzX2lkIjp7IiRvaWQiOiI2ODc3ODg3OGI3ZDc3MDI3MWUwNTU1ODYifX0sIm9wZXJhdG9yIjoiJGx0Iiwic29ydEtleSI6Il9pZCIsInNvcnRPcmRlciI6MSwiZGlyZWN0aW9uIjoiYmFja3dhcmQifQ=="
+    },
+    "total": 28
+    }

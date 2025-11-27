@@ -1,0 +1,114 @@
+{
+    "success": true,
+    "data": [
+      {
+        "type": "order",
+        "order_id": "577131897877073986",
+        "created_at": "1759826170219",
+        "updated_at": "1759826170219",
+        "u_order_id": null,
+        "u_channel_id": "67b5bf0826aabf303a0a479d",
+        "channel_name": "Tiktok",
+        "currency": "USD",
+        "total": "275.35",
+        "subtotal": "249",
+        "total_tax": "26.15",
+        "order_name": "577131897877073986",
+        "discounts": [
+          {
+            "code": "platform",
+            "amount": "0"
+          },
+          {
+            "code": "seller",
+            "amount": "0"
+          }
+        ],
+        "u_account_id": "68e4b6cbb54d4e8fb30b0daa",
+        "u_business_id": "68d3c98f22758433870f3469",
+        "marketplace_account_id": "7494181057473578664",
+        "status": "ON_HOLD",
+        "fulfillment_type": "FULFILLMENT_BY_SELLER",
+        "customer": {
+          "email_id": "v4bHZUSC7LDE24NYGXPGHKUPLAL2E@scs.tiktokw.us",
+          "first_name": "",
+          "last_name": "",
+          "phone_number": "",
+          "created_at": 1759826152,
+          "updated_at": 1759826153,
+          "order_count": 1,
+          "total_sales": "275.35",
+          "currency": "USD",
+          "addresses": [
+            {
+              "first_name": "",
+              "last_name": "",
+              "phone_number": "",
+              "address_line1": "",
+              "address_line2": "",
+              "address_line3": "",
+              "country_code": "",
+              "country_name": "United States",
+              "province_code": "",
+              "province_name": "California",
+              "city": "",
+              "zip_code": "",
+              "address_type": ""
+            }
+          ],
+          "default_address": []
+        },
+        "taxes": [
+          {
+            "code": "sales_tax",
+            "amount": "26.15"
+          }
+        ],
+        "shipping_address": {
+          "first_name": "",
+          "last_name": "",
+          "phone_number": "",
+          "address_line1": "",
+          "address_line2": "",
+          "address_line3": "",
+          "country_code": "",
+          "country_name": "United States",
+          "province_code": "",
+          "province_name": "California",
+          "city": "",
+          "zip_code": "",
+          "address_type": ""
+        },
+        "shipping_charge": {
+          "price": 0.2
+        },
+        "marketplace": "tiktok",
+        "shipping_due_time": null,
+        "create_time": 1759826152,
+        "packages": {
+          "package_id": "577131897877073986",
+          "order_line_item_ids": [
+            "577131897877205058"
+          ],
+          "target_order_id": null,
+          "error_message": "Order syncing is disabled for this account."
+        },
+        "items": [
+          {
+            "name": "\t Google Pixel 10",
+            "sku": "GOOGLE-PIXEL-10-001",
+            "item_id": {
+              "$oid": "68e4d0fae6827ca1400af144"
+            },
+            "status": "UNKNOWN",
+            "line_item_id": "577131897877205058"
+          }
+        ],
+        "id": "68e4d0fae6827ca1400af145"
+      }
+    ],
+    "cursor": "",
+    "total": 1,
+    "ip": "172.19.0.1",
+    "time_taken": "0.019"
+  }
