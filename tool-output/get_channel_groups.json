@@ -1,0 +1,37 @@
+{
+    "success": true,
+    "data": [
+    {
+    "name": "Shein",
+    "channel_id": [
+    "68b92e9ac19f373ad2078934"
+    ],
+    "id": "68c2caf68db488c7bb0cecc4"
+    },
+    {
+    "name": "Walmart",
+    "channel_id": [
+    "6891ea6e9f47f925250fd53d"
+    ],
+    "id": "6891fc6d9f47f925250fd548"
+    },
+    {
+    "name": "TikTok Shop",
+    "channel_id": [
+    "67d96acf5ebef5d75c034c96",
+    "68f25ceb6bbd68f0290ca674"
+    ],
+    "id": "67d96ae36426e94f800c7505"
+    },
+    {
+    "name": "Amazon",
+    "channel_id": [
+    "67d9666a48df24a4d30461e6",
+    "68242eef9da61439e306f426"
+    ],
+    "id": "67d96ad96426e94f800c7504"
+    }
+    ],
+    "cursor": null,
+    "total": 4
+    }
