@@ -1,0 +1,26 @@
+{
+  "sample_tool": {
+    "product_card": "ProductCard"
+  },
+  "sample_tool_2": {
+    "product_table": "ProductTable"
+  },
+  "sample_tool_3": {
+    "product_list": "ProductList"
+  },
+  "sample_tool_4": {
+    "attribute_list": "AttributeList"
+  },
+  "get_channel_groups": {
+    "channel_list": "ChannelList"
+  },
+  "get_classifications": {
+    "classification_list": "ClassificationList"
+  },
+  "get_warehouse": {
+    "warehouse_list": "WarehouseList"
+  },
+  "get_order": {
+    "order_list": "ChannelOrdersList"
+  }
+}

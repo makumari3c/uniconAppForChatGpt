@@ -80,6 +80,8 @@ function App() {
     if (!data || !componentConfig) return null;
 
     const Component = componentMap[componentConfig.name];
+    const response = window.openai.toolOutput;
+    console.log("Tool Output Response:", response);
     if (!Component) {
       return <div>Component {componentConfig.name} not found</div>;
     }
@@ -116,6 +118,7 @@ function App() {
     <div className="app-container">
       <h1>Unicon</h1>
       <p>React SDK Base Setup</p>
+      <div>{response}</div>
 
       <ToolOutputSelector files={files} onLoad={loadFile} />
 

@@ -1,0 +1,15 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Unicon",
+    "name_for_model": "unicon",
+    "description_for_human": "Unicon SDK React Demo",
+    "description_for_model": "React frontend for Unicon GPT App",
+    "auth": {
+      "type": "none"
+    },
+    "ui": {
+      "type": "iframe",
+      "url": "https://makumari3c.github.io/uniconAppForChatGpt/"
+    },
+    "contact_email": "makumari3c@gmail.com"
+  }
