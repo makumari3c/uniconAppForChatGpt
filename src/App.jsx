@@ -74,13 +74,14 @@ function App() {
       console.error("Failed to load file:", error);
     }
   };
+    var  response = window?.openai?.toolOutput ?? "NO TOOL OUTPUT FOUND";
+
 
   // Render the appropriate component based on mapper
   const renderComponent = () => {
     if (!data || !componentConfig) return null;
 
     const Component = componentMap[componentConfig.name];
-    const response = window.openai.toolOutput;
     console.log("Tool Output Response:", response);
     if (!Component) {
       return <div>Component {componentConfig.name} not found</div>;
